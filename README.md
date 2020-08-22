@@ -1,5 +1,5 @@
 # Nibble Core (CLI)
-Latest Release: v4.0.0
+Latest Release: v4.2.0
 
 <p align="center">
 <img src= "https://i.imgur.com/oJFun3j.png">
